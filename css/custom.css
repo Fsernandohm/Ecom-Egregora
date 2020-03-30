@@ -532,3 +532,8 @@ ul {
     border-bottom-right-radius: 5px
 }
 
+
+/* galeria */
+.image_item.selected{
+    background-color:#000;
+}
